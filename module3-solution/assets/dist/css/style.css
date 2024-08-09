@@ -29,3 +29,10 @@ h4{
     right: 20px;
     bottom: 0;
 }
+.navbar-custom {
+    border: 3px solid black; /* Bordure blanche */
+    border-radius: 0px; /* Coins arrondis */
+}
+.nav-item-custom{
+    border-bottom: 2px solid black;
+}
