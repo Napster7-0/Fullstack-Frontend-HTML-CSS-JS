@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+.bg-gray {
+    background-color: gray;
+}
+p{
+    text-align: justify;
+    padding-bottom: 15px;
+}
+.row-custom{
+    gap:10px;
+}
+h2{
+    padding-top: 100px;
+    padding-bottom: 25px;   
+}
+h4{
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.col-custom{
+    position: relative;
+}
+.redirect{
+    position: absolute;
+    font-size: 20px;
+    font-weight: lighter;
+    right: 20px;
+    bottom: 0;
+}
